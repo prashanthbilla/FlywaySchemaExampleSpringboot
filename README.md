@@ -72,7 +72,7 @@ The framework performs the following steps to accommodate evolving database sche
 5) As each migration is applied, the metadata table is updated accordingly.
   
 ## Conclusion :
-In this tutorial, we learned how Flyway works and how we can use this framework to remodel our application database reliably
+In this example, we learned how Flyway works and how we can use this framework to remodel our application database reliably
 
 
 
